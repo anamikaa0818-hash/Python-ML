@@ -11,7 +11,7 @@ The goal of this project is to help financial institutions **identify high-risk 
 ---
 
 ## Dataset
-
+Dataset is not included due to privacy reasons.
 The dataset contains information related to mutual fund investors including:
 
 * Customer demographic details
